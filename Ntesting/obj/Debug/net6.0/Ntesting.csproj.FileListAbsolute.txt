@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Batch-217\Ntesting\Ntesting\bin\Debug\net6.0\Ntesting.exe
+C:\Users\hp\Desktop\Batch-217\Ntesting\Ntesting\bin\Debug\net6.0\Ntesting.deps.json
+C:\Users\hp\Desktop\Batch-217\Ntesting\Ntesting\bin\Debug\net6.0\Ntesting.runtimeconfig.json
+C:\Users\hp\Desktop\Batch-217\Ntesting\Ntesting\bin\Debug\net6.0\Ntesting.dll
+C:\Users\hp\Desktop\Batch-217\Ntesting\Ntesting\bin\Debug\net6.0\Ntesting.pdb
+C:\Users\hp\Desktop\Batch-217\Ntesting\Ntesting\obj\Debug\net6.0\Ntesting.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Batch-217\Ntesting\Ntesting\obj\Debug\net6.0\Ntesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Batch-217\Ntesting\Ntesting\obj\Debug\net6.0\Ntesting.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Batch-217\Ntesting\Ntesting\obj\Debug\net6.0\Ntesting.AssemblyInfo.cs
+C:\Users\hp\Desktop\Batch-217\Ntesting\Ntesting\obj\Debug\net6.0\Ntesting.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Batch-217\Ntesting\Ntesting\obj\Debug\net6.0\Ntesting.dll
+C:\Users\hp\Desktop\Batch-217\Ntesting\Ntesting\obj\Debug\net6.0\refint\Ntesting.dll
+C:\Users\hp\Desktop\Batch-217\Ntesting\Ntesting\obj\Debug\net6.0\Ntesting.pdb
+C:\Users\hp\Desktop\Batch-217\Ntesting\Ntesting\obj\Debug\net6.0\Ntesting.genruntimeconfig.cache
+C:\Users\hp\Desktop\Batch-217\Ntesting\Ntesting\obj\Debug\net6.0\ref\Ntesting.dll
